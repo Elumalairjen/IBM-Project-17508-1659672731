@@ -1,5 +1,5 @@
 <a href="https://github.com/IBM-EPBL/IBM-Project-17508-1659672731">
- <img src="https://i.postimg.cc/rmFvc6Yh/fin-ibm.png">
+ <img src="https://postimg.cc/gallery/08xSMhj">
 </a>
 
 <h2 align="center">Fertilizers Recommendation System For Disease Prediction <a href="https://github.com/IBM-EPBL/IBM-Project-17508-1659672731" target="_blank"><picture>
